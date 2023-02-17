@@ -45,3 +45,8 @@ Contact
 Your Name - @your_twitter - email@example.com
 
 Project Link: https://github.com/your_username/repo_name
+
+follow the video link showing step by step the application and questions working.
+
+
+https://clipchamp.com/watch/aEiEXQB2oJM
