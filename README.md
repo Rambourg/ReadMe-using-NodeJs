@@ -1,7 +1,7 @@
 ReadMe
 
-My intentios were to create an simple ReadMe file where the user could include information in a easy and accessible way.
-The following questions where used as guideline to be filled abd to create the file.
+My intentinos were to create an simple ReadMe file where the user could include information in a easy and accessible way.
+The following questions where used as a guideline to be filled to create the a new file with the user information.
 ![image readme](https://user-images.githubusercontent.com/116593146/219515982-d204382f-c2ee-4b2d-b08b-a168490ddbc3.png)
 
 Built with:
